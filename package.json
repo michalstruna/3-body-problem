@@ -1,0 +1,24 @@
+{
+    "name": "vite-template-solid",
+    "version": "0.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "start": "vite",
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "prettier": "^3.5.0",
+        "typescript": "^5.7.2",
+        "vite": "^6.0.0",
+        "vite-plugin-solid": "^2.11.1"
+    },
+    "dependencies": {
+        "pixi-viewport": "^6.0.3",
+        "pixi.js": "^8.7.3",
+        "solid-js": "^1.9.3"
+    }
+}
